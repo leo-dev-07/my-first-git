@@ -12,5 +12,4 @@ else:
 
 print("{0}{1}".format(x,y))
 
-print("\n Este programa foi feito para testar o Git-hub! Acrescente mais códigos e commite-os! :D")
 
